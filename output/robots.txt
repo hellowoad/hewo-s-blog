@@ -1,0 +1,4 @@
+Sitemap: http://likeeet.com/sitemapindex.xml
+
+User-Agent: *
+Host: likeeet.com
