@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>http://likeeet.com/archive.html</loc>
-  <lastmod>2022-11-25T12:43:00Z</lastmod>
+  <lastmod>2022-11-25T13:11:00Z</lastmod>
  </url>
  <url>
   <loc>http://likeeet.com/categories/</loc>
@@ -32,5 +32,9 @@
  <url>
   <loc>http://likeeet.com/posts/hello-world/</loc>
   <lastmod>2022-11-25T12:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://likeeet.com/posts/something/</loc>
+  <lastmod>2022-11-25T13:11:00Z</lastmod>
  </url>
 </urlset>
