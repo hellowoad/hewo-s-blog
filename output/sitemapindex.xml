@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://likeeet.com/galleries/rss.xml</loc>
-  <lastmod>2022-11-26T11:28:00Z</lastmod>
+  <lastmod>2022-11-26T13:41:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://likeeet.com/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>http://likeeet.com/sitemap.xml</loc>
-  <lastmod>2022-11-26T11:28:00Z</lastmod>
+  <lastmod>2022-11-26T13:41:00Z</lastmod>
  </sitemap>
 </sitemapindex>
