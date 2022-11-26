@@ -25,7 +25,7 @@ SITE_URL = "http://likeeet.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://likeeet.com/"
 BLOG_EMAIL = "hewozy@163.com"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_DESCRIPTION = "This is a blog site by zzy"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -144,7 +144,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+#        ("/rss.xml", "RSS feed"),
     ),
 }
 
