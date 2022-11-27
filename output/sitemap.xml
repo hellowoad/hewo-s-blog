@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://likeeet.com/</loc>
-  <lastmod>2022-11-25T12:43:00Z</lastmod>
+  <lastmod>2022-11-26T14:47:00Z</lastmod>
  </url>
  <url>
   <loc>http://likeeet.com/2022/</loc>
@@ -15,11 +15,19 @@
  </url>
  <url>
   <loc>http://likeeet.com/archive.html</loc>
-  <lastmod>2022-11-26T14:08:00Z</lastmod>
+  <lastmod>2022-11-27T08:44:00Z</lastmod>
  </url>
  <url>
   <loc>http://likeeet.com/categories/</loc>
-  <lastmod>2022-11-25T12:43:00Z</lastmod>
+  <lastmod>2022-11-26T15:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://likeeet.com/categories/cat_ying-jian/</loc>
+  <lastmod>2022-11-26T15:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://likeeet.com/categories/ldo/</loc>
+  <lastmod>2022-11-26T15:08:00Z</lastmod>
  </url>
  <url>
   <loc>http://likeeet.com/galleries/</loc>
@@ -28,6 +36,18 @@
  <url>
   <loc>http://likeeet.com/listings/</loc>
   <lastmod>2022-11-25T12:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://likeeet.com/pages/quote/</loc>
+  <lastmod>2022-11-27T08:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://likeeet.com/pages/test-page/</loc>
+  <lastmod>2022-11-26T14:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://likeeet.com/pages/word/</loc>
+  <lastmod>2022-11-27T08:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://likeeet.com/posts/hello-world/</loc>

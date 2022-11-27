@@ -144,6 +144,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
+	("/pages/quote/", "Quote"),
+	("/pages/word/", "Word"),
 #        ("/rss.xml", "RSS feed"),
     ),
 }
