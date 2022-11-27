@@ -19,7 +19,7 @@ var tipuesearch = {
       "url": "http://likeeet.com/pages/test-page/"
     },
     {
-      "title": "\u671f\u5f85\u6ed5\u603b\u7684\u641e\u7a3f",
+      "title": "\u671f\u5f85\u6ed5\u603b\u7684\u6295\u7a3f",
       "text": "\u672c\u7f51\u7ad9\u5efa\u8bbe\u521d\u671f\uff0c\u5e0c\u671b\u6ed5\u603b\u7684ldo\u7a3f\u5b50\u5feb\u70b9\u5b8c\u5de5\uff01",
       "tags": "ldo",
       "url": "http://likeeet.com/posts/qi-dai-teng-zong-de-gao-gao/"
