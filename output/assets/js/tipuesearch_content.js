@@ -8,7 +8,7 @@ var tipuesearch = {
     },
     {
       "title": "word",
-      "text": "hello\nworld",
+      "text": "hello\nworld\nfragment\nI overheard a fragment of their conversation.",
       "tags": "",
       "url": "http://likeeet.com/pages/word/"
     },
