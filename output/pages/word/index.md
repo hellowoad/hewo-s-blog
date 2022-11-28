@@ -13,3 +13,5 @@
 * world
 * fragment
 	- I overheard a fragment of their conversation. 	
+* start over
+	- She wasn't happy with our work and made us start over.

@@ -8,7 +8,7 @@ var tipuesearch = {
     },
     {
       "title": "word",
-      "text": "hello\nworld\nfragment\nI overheard a fragment of their conversation.",
+      "text": "hello\nworld\nfragment\nI overheard a fragment of their conversation.     \n\n\nstart over\nShe wasn't happy with our work and made us start over.",
       "tags": "",
       "url": "http://likeeet.com/pages/word/"
     },
